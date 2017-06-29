@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Nextcloud GmbH\Nextcloud]
+@="C:\\Program Files\\\Nextcloud"
+"VersionMajor"=dword:00000002
+"VersionMinor"=dword:00000003
+"VersionRevision"=dword:00000001
+"VersionBuild"=dword:00000008
+
