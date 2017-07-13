@@ -4,25 +4,14 @@ This is a portable Nextcloud client that runs on Windows.
 At starttime a Batch file is executed and will prompt you for a password.
 On first run this will set your password to encrypt the Nextcloud client configuration (host, user, password) and the data stored in your portable `Documents` folder.
 
-**ATTENTION**: This currently only works if used inside a complete PortableApps setup like used on USB sticks with the following directory structure:
-```
-X:\
-   Documents\
-       nextcloud\
-   PortableApps\
-       nextcloudPortable\
-```
-A setup with the PortableApps directories not at the root of a drive is not yet tested.
-
-**ATTENTION**: A wrong password can remove your data.
 
 ## Install
 
-1. Install 'nextcloudPortable_X.X.paf.exe' with PortableApps Plateform
+1. Install 'nextcloudPortable_X.X-X.paf.exe' with PortableApps Plateform
 2. Run Nextcloud
 3. Enter a password
-4. Create folder ```X:\Documents\nextcloud```
-5. Setup nextcloud with folder ```../../../../Documents/nextcloud```
+4. Setup nextcloud
+5. Resume sync
 
 ## Used software
 
