@@ -19,7 +19,7 @@ On first run this will set your password to encrypt the Nextcloud client configu
 https://github.com/BennyLi/encryptedOwnCloudPortableClient. Thanks to the author.
 
 ### Nextcloud
-Currently packaged is the Nextcloud client version 2.3.1 from https://nextcloud.com/install/#install-clients.
+Currently packaged is the Nextcloud client version 2.3.3 from https://nextcloud.com/install/#install-clients.
 
 ### 7-Zip
 For encrypted packaging a 7za.exe is included. This is the official portable one in version 16.04 from http://www.7-zip.org/download.html.
